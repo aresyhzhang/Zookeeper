@@ -20,6 +20,7 @@ public class Router {
 				public void process(WatchedEvent arg0) {
 					// TODO Auto-generated method stub
 					System.out.println("当前调用了这个观察者");
+					System.out.println("当前调用了这个观察者");
 				}
 			});	
 	}
